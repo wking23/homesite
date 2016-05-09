@@ -1,4 +1,0 @@
-{extends "base_generic.html" %}
-{% block title %}
-<h1>{{section.title}}</h1>
-{% endblock %}
